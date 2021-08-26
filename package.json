@@ -1,14 +1,22 @@
 {
-  "name": "BaseCrud",
+  "name": "CRUDJsNodeMysql",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "Consulta.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Martinfbr/CRUDJsNodeMysql.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Martinfbr/CRUDJsNodeMysql/issues"
+  },
+  "homepage": "https://github.com/Martinfbr/CRUDJsNodeMysql#readme",
   "dependencies": {
     "mysql": "^2.18.1"
   }
