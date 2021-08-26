@@ -22,7 +22,7 @@ app.get('/', function(req,resp){
             console.log('consulta de la informacion de la tabla')
             console.log(rows)
             conexion.end()
-        }
+        } 
     })
 
 
